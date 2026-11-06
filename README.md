@@ -92,6 +92,3 @@ EF SET English C1 Advanced
 
 **Languages:** Portuguese (native) · English (full professional)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabriciolelis&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-</p>
